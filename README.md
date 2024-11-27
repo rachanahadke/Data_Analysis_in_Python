@@ -93,5 +93,5 @@ If you have questions or want to discuss this project, feel free to reach out:
 
 **Rachana Hadke**  
 - [LinkedIn](https://www.linkedin.com/in/rachana-hadke)  
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:rachanahadke2@gmail.com)
 
